@@ -1,0 +1,5 @@
+python-click (100:8.0.4-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pallets/click/releases/tag/8.0.4
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 23 Jan 2024 23:11:42 +0800
