@@ -1,0 +1,5 @@
+python-click source: file-without-copyright-information
+python-click source: no-debian-changes
+python-click source: source-contains-prebuilt-windows-binary
+python-click source: source-is-missing
+python-click source: source-package-encodes-python-version
