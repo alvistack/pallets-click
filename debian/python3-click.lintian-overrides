@@ -1,0 +1,4 @@
+python3-click: copyright-without-copyright-notice
+python3-click: initial-upload-closes-no-bugs
+python3-click: no-manual-page
+python3-click: zero-byte-file-in-doc-directory
